@@ -36,11 +36,11 @@ This repo can defend:
 - the scoring logic
 - the preservation of observation vs interpretation
 
-This repo does not independently prove:
+This repo documents:
 
-- ontology
-- causation
-- therapeutic effect
+- multi-node session events as structured records
+- scoring logic that separates observation from interpretation
+- an event layer that can later be compared against causation, therapeutic, or ontology-focused discussions
 
 See:
 
