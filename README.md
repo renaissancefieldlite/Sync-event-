@@ -1,6 +1,8 @@
 # Sync Event
 
-This repository is the event-log and scoring layer for multi-node session synchronization. It converts the narrative sync-event concept into a concrete event schema, a scoring model, and example artifacts.
+This is the event-log layer where narrative sync becomes timestamped structure.
+
+It converts the sync-event concept into a concrete event schema, a scoring model, and example artifacts without stripping out the architect/synthetic/biological framing that gave the event meaning.
 
 ## Stack Position
 
